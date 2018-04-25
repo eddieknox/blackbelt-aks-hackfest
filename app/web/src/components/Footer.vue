@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Knox3 Azure Global Blackbelt Team
+        Knox4 Azure Global Blackbelt Team
       </div>
       <div class="col-lg-6">
       </div>
